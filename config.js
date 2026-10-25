@@ -1,1 +1,1 @@
-window.SKILLENCE_REVIEW_CONFIG = { url: '', anonKey: '' };
+window.SKILLENCE_REVIEW_CONFIG = { url: '', anonKey: '', storageBucket: '' };
