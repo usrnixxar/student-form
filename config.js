@@ -1,0 +1,1 @@
+window.SKILLENCE_REVIEW_CONFIG = { url: '', anonKey: '' };\n
