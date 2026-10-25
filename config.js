@@ -1,1 +1,1 @@
-window.SKILLENCE_REVIEW_CONFIG = { url: '', anonKey: '', storageBucket: '', ratingSummaryUrl: '' };
+window.SKILLENCE_REVIEW_CONFIG = { url: 'https://ivknoltohgkavkhxftnk.supabase.co', anonKey: 'sb_publishable_Evw72qZpcCN7QLaDv4yZDw_m-lUZl_d', storageBucket: 'review-attachments', ratingSummaryUrl: 'https://ivknoltohgkavkhxftnk.supabase.co/rest/v1/rpc/skillence_review_summary' };
